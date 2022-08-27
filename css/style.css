@@ -1,0 +1,508 @@
+ul li {
+    list-style: none;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.logo {
+    margin-top: -10px;
+    margin-left: 50px;
+    width: 100px;
+    height: 90px;
+}
+
+.navigation-menu {
+    margin-top: -50px;
+    margin-left: 500px;
+}
+
+.navigation-menu li {
+    margin-left: 25px;
+}
+
+.navigation-menu a {
+    color: #7d7d7d;
+}
+
+.cart {
+    margin: -39px 40px 0px -50px;
+    float: right;
+    color: #7d7d7d;
+    font-size: small;
+}
+
+.cart i {
+    color: #7d7d7d;
+    margin-left: 10px;
+}
+
+.active {
+    border: 1px solid #cccccc;
+    padding: 3px 7px 5px 7px;
+    border-radius: 2px;
+}
+
+.banner {
+    margin-top: 26px;
+    background-image: url(../images/pexels-florent-b-2664149.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 580px;
+    background-position: calc(100%-20px) calc(100%-20px);
+    color: #fff;
+}
+
+.banner i{
+    font-size: 20px;
+}
+.left-nav {
+    margin: 300px 0px 0px 20px;
+    cursor: pointer;
+}
+
+.right-nav {
+    margin: -180px 20px 0px 0px;
+    float: right;
+    cursor: pointer;
+}
+
+.mouse {
+    margin: 30px 0px 0px 760px;
+}
+
+header, h1, h6, h4, h3, .wine-list, .shop {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.banner-heading {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -90px;
+}
+
+.banner h6 {
+    letter-spacing: 0.2rem;
+    text-align: center;
+}
+
+.banner h1 {
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+hr {
+    height: 30px;
+    width: 2px;
+    background-color: #333333;
+}
+
+.shop {
+    text-align: center;
+    font-size: xx-large;
+    letter-spacing: 0.2rem;
+}
+
+.category {
+    color: #800003;
+}
+
+.wine-collection img {
+    margin-left: 10px;
+    height: 400px;
+    width: 310px;
+}
+
+.red-wine {
+    margin-left: -1.9rem;
+    background-image: url(../images/lucas-santos-GqWu8qrCiwg-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-position: 15%;
+}
+
+.sparkling-wine {
+    margin-left: 10px;
+    background-image: url(../images/michelle-mcewen-HPM3jVF8_as-unsplash.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: 350px;
+
+}
+
+.white-wine {
+    margin-left: 10px;
+    background-image: url(../images/pexels-brett-jordan-917831.jpg);
+    background-repeat: no-repeat;
+    background-size: 350px;
+}
+
+.champagne {
+    margin-left: 10px;
+    background-image: url(../images/pexels-aarón-lares-7476178.jpg);
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-position: 15%;
+}
+
+.wine-collection h4 {
+    border: 1px solid #800003;
+    background-color: #800003;
+    width: 330px;
+    color: #fff;
+    margin-left: -12px;
+    margin-top: 330px;
+    padding-top: 10px;
+    padding-bottom: 13px;
+    padding-left: 22px;
+}
+
+.column p {
+    color: #fff;
+    margin-left: 130px;
+    margin-top: -43px;
+    letter-spacing: 0.1rem;
+    font-size: small;
+}
+
+.minus {
+    margin-left: -20px;
+}
+
+.sparkling-wine p {
+    margin-left: 192px;
+}
+
+.white-wine p {
+    margin-left: 152px;
+}
+
+.champagne p {
+    margin-left: 168px;
+}
+
+.our-wines {
+    padding-top: 40px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.our-wines li {
+    font-size: xx-large;
+    letter-spacing: 0.2rem;
+    margin-left: 5px;
+}
+
+.wine-list {
+    background-color: #f9ebeb;
+    width: 1390px;
+    height: 1000px;
+}
+
+.wine-column img {
+    margin-left: 50px;
+}
+
+.wine-name {
+    margin-top: 40px;
+    font-size: 24px;
+}
+
+.mollis {
+    margin-left: 100px;
+}
+
+.donec {
+    margin-left: 260px;
+}
+
+.aoreet {
+    margin-left: 260px;
+}
+
+.wine-quantity {
+    margin-top: -10px;
+}
+
+.quantity-one {
+    margin-left: 150px;
+}
+
+.quantity-two {
+    margin-left: 390px;
+}
+
+.quantity-three {
+    margin-left: 400px;
+}
+
+.icons i {
+    cursor: pointer;
+    margin-left: 40px;
+    color: #7d7d7d;
+    background-color: #fff;
+    border: 10px solid #fff;
+}
+
+.icons {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+
+.wine-cost {
+    font-size: 24px;
+    color: #7d7d7d;
+    font-weight: bold;
+    margin-top: -30px;
+}
+
+.cost-two {
+    margin-left: 570px;
+}
+
+.cost-three {
+    margin-left: 370px;
+}
+
+.all-wines {
+    background-color: #800003;
+    color: #fff;
+    border-radius: 2px;
+    border-color: #f9ebeb;
+    font-size: 12px;
+    padding: 10px 30px 10px 30px;
+    margin: 5px 0px 0px 580px;
+}
+
+.leaf-left img {
+    width: 180px;
+    height: 190px;
+    margin-top: -120px;
+    margin-left: -123px;
+}
+
+.leaf-right img {
+    width: 180px;
+    height: 190px;
+    margin: -120px 0px 0px 1215px;
+
+}
+
+.mid-banner {
+    margin-top: -50px;
+    margin-left: -112px;
+    background-image: url(../images/pexels-timur-saglambilek.jpg);
+    filter: brightness(90%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1519px;
+    height: 390px;
+    background-position: center;
+}
+
+.banner-head {
+    margin-top: 50px;
+    text-align: center;
+    color: #fff !important;
+}
+
+.explore {
+    background-color: #800003;
+    color: #fff;
+    border-radius: 4px;
+    border-color: #f9ebeb;
+    font-size: 12px;
+    padding: 10px 30px 10px 30px;
+    margin: 50px 0px 0px 690px;
+}
+
+.handpicked {
+    padding-top: 60px;
+}
+
+
+
+.services {
+    padding-top: 30px;
+    color: #fff;
+    margin-left: -112px;
+    background-color: #800003;
+    width: 98.95vw;
+    height: 150px;
+}
+
+.services img {
+    filter: brightness(1000%);
+    width: 50px;
+    height: 50px;
+    padding-right: 10px;
+}
+
+.service-images {
+    padding-top: 20px;
+}
+
+.service-name {
+    margin-top: -80px;
+}
+
+.shipping-icon {
+    margin-left: 360px;
+}
+
+.money-icon {
+    margin-left: 100px;
+}
+
+.payment-icon {
+    margin-left: 100px;
+}
+
+.service-method {
+    margin-left: 420px;
+    font-size: small;
+    margin-top: -37px;
+}
+
+.money-term {
+    margin-left: 100px;
+}
+
+.payment-term {
+    margin-left: 215px;
+}
+
+.story-banner {
+    background-image: url('../images/bg-home-1_1.jpg');
+    width: 98.95vw;
+    margin-left: -112px;
+}
+
+.bar-img img {
+    margin-left: 100px;
+    margin-top: -190px;
+    height: 500px;
+    width: 60vw;
+}
+
+.bar-guy img {
+    border: 10px solid #fff;
+    width: 600px;
+    height: 500px;
+    margin-top: -180px;
+    margin-left: 800px;
+}
+
+.story-banner-list {
+    padding-top: 200px;
+    margin-left: 1100px;
+}
+
+
+.dash {
+    margin-left: -25px;
+}
+
+.our {
+    margin-top: -38px;
+}
+
+.story {
+    color: #800003;
+    margin-left: 95px;
+    margin-top: -56px;
+}
+
+.story-para {
+    margin-left: 140px;
+    font-size: 14px;
+    color: #000;
+}
+
+.para-one {
+    margin-top: -250px;
+}
+
+.para-two {
+    padding-bottom: 150px;
+}
+
+.footer-banner {
+    margin-top: -15px;
+    margin-left: -112px;
+    width: 98.95vw;
+    background-color: #800003;
+    height: 380px;
+}
+
+.footer-banner img {
+    filter: brightness(1000%);
+    width: 150px;
+    height: 150px;
+    margin-left: 680px;
+}
+
+.footer-banner a,
+p,
+i {
+    color: #fff;
+    font-size: 11px;
+}
+
+.subscription {
+    margin-top: 20px;
+    margin-left: 550px;
+    border-bottom: 1px solid #fff;
+    width: 400px;
+    padding-bottom: 10px;
+}
+
+.email {
+    margin-left: -32px;
+    margin-right: 213px;
+}
+
+.subs i {
+    margin-left: 5px
+}
+
+.social-media {
+    margin-top: -40px;
+    margin-left: 555px;
+}
+
+.social-media i {
+    margin-left: 40px;
+}
+
+.faqs {
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+.faqs li {
+    margin-left: 10px;
+}
+
+.copyright {
+    margin-top: -33px;
+    margin-left: 1100px;
+}
+
+.top {
+    margin-left: 1350px;
+    margin-top: 0px;
+    color: #fff;
+    border-color: #333333;
+    background-color: #333333;
+    width: 40px;
+    height: 60px;
+}
+
+.top i {
+    margin-left: 0px;
+}
